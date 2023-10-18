@@ -1,0 +1,22 @@
+.bodyBackgorund {
+    background-image: url("https://i.pinimg.com/originals/4f/7d/04/4f7d04f6f4e4236b8eb03e29be5c6640.gif");
+    background-position: center;
+    background-size: cover;
+  }
+
+  h1
+  {
+      color: white; 
+      font-size: 40px;
+  }
+  
+  #myCanvas
+  {
+      background-color: white; 
+      border-style:ridge;
+  }
+  
+  span
+  {
+      font-size: 20px;
+  }
